@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vellaisamy-24" alt="vellaisamy-24" /></a> </p>
 
-- <a href="https://nextjs.org/"><img src="https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png" width="40" height="40" alt="Nextjs" /></a> I’m currently learning **Nextjs**
+-  I’m currently learning  <a href="https://nextjs.org/"> **Nextjs** </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="left" >
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -23,7 +23,7 @@
  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>
 
 
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -37,3 +37,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vellaisamy-24&show_icons=true&locale=en" alt="vellaisamy-24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vellaisamy-24&" alt="vellaisamy-24" /></p>
+
+
+<h1>Connect With me : </h1>
+<a href="https://www.linkedin.com/in/vellaisamya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="LinkedIn" width="40" height="40" align="center" />LinkedIn</a>
+
