@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vellaisamy-24" alt="vellaisamy-24" /></a> </p>
 
-- <i class="cib-next-js"></i> I’m currently learning **Nextjs**
+- <a href="https://nextjs.org/"><img src="https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png" width="40" height="40" alt="Nextjs" /></a> I’m currently learning **Nextjs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
