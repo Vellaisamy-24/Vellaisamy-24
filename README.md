@@ -35,7 +35,7 @@ I'm a passionate **Aspiring Full Stack Developer** with expertise in modern web 
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -78,8 +78,6 @@ I'm a passionate **Aspiring Full Stack Developer** with expertise in modern web 
 ---
 
 <div align="center">
-  
-  
 
   
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
