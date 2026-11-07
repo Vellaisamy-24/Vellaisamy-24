@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Vellaisamy A
 
 <div align="center">
-  <!-- <img src="assets/profile.jpeg" alt="Vellaisamy A - Software Developer" width="180" style="border-radius: 50%;" /> -->
 
-  <h3>Software Developer | Full Stack Developer</h3>
+### Software Developer | Full Stack Developer
 
-  <p>Building reliable software, solving problems, and exploring AI-powered applications.</p>
+Building reliable software, solving problems, and exploring AI-powered applications.
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Exploring+AI+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Exploring+AI+Applications" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -121,7 +121,9 @@ A web application for calculating electricity bills.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vellaisamy-24&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vellaisamy-24&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
 </div>
 
 ---
@@ -129,7 +131,9 @@ A web application for calculating electricity bills.
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vellaisamy-24&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vellaisamy-24&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+
 </div>
 
 ---
