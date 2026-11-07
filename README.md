@@ -1,17 +1,13 @@
+
 # 👋 Hi, I'm Vellaisamy A
 
 <div align="center">
 
-### Software Developer | Full Stack Developer | Problem Solver
+### Software Developer | Full Stack Developer
 
-Building reliable software, full-stack applications, and AI-powered solutions.
+Building reliable software, solving problems, and exploring AI-powered applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://vellaisamyaportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vellaisamya/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vellaisamy/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vellaikarthick24@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Vellaisamy-24&color=00D4FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Exploring+AI+Applications" alt="Typing SVG" />
 
 </div>
 
@@ -19,88 +15,68 @@ Building reliable software, full-stack applications, and AI-powered solutions.
 
 ## 🚀 About Me
 
-I'm a **Software Developer at Syncfusion Software Pvt. Ltd.**, working on enterprise document editing software.
+I'm a Software Developer at **Syncfusion**, working on enterprise software development, debugging, defect resolution, feature enhancements, and automated testing.
 
-- 💼 Working on Syncfusion's Word Document Editor.
-- 🔍 Investigating and resolving customer-reported issues through debugging and code analysis.
-- ⚙️ Implementing bug fixes and feature enhancements.
-- 🧪 Working on testing, validation, and automation.
-- 🌐 Building full-stack applications using the MERN stack.
-- 🤖 Exploring AI applications using LLMs, LangGraph, embeddings, and vector databases.
-- 🧠 Practicing Data Structures and Algorithms to improve problem-solving skills.
-- 🎯 Interested in Software Developer, Frontend Developer, and Full Stack Developer opportunities.
+I enjoy building full-stack applications, solving Data Structures and Algorithms problems, and exploring how AI can make applications more useful.
+
+- 💼 Software Developer at Syncfusion
+- 🌐 Interested in Full Stack and Software Development opportunities
+- ⚛️ Building applications with React.js and the MERN stack
+- 🤖 Exploring AI applications using LangGraph, Mistral AI, and vector databases
+- 🧠 Practicing Data Structures and Algorithms
+- 🎯 Focused on writing clean, maintainable, and reliable code
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
 <div align="center">
+
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+### Frontend
 
-### 🎨 Frontend Development
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</div>
-
-### ⚙️ Backend Development
-
-<div align="center">
+### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-### 🗄️ Databases
-
-<div align="center">
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 
-</div>
+### AI & Tools
 
-### 🤖 AI & Developer Tools
-
-<div align="center">
-
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-F7D046?style=for-the-badge&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-00BFA5?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
 ### 🤖 AI Travel Assistant
 
-An AI-powered travel assistant built to provide travel-related responses and recommendations using AI models and agent workflows.
+An AI-powered travel assistant built using the MERN stack and agent workflows. It helps users explore travel options and generate personalized recommendations.
 
-**Technologies:** MERN Stack, Mistral AI, LangGraph, Pinecone, Sentence Transformers
+**Technologies:** React.js, Node.js, Express.js, MongoDB, LangGraph, Mistral AI, Pinecone
 
-[🔗 View Repository](https://github.com/Vellaisamy-24/Ai_Agent_Project_Final)
+[View Repository](https://github.com/Vellaisamy-24/Ai_Agent_Project_Final)
 
 ### 🏡 HouRent — Real Estate Application
 
@@ -108,21 +84,23 @@ A full-stack real estate application built using the MERN stack.
 
 **Technologies:** React.js, Node.js, Express.js, MongoDB
 
-[🔗 View Repository](https://github.com/Vellaisamy-24/ProjectEstateMERN)
+[View Repository](https://github.com/Vellaisamy-24/ProjectEstateMERN)
 
 ### 📇 Contact Manager
 
-A MERN stack application for managing contact information.
+A MERN stack application for managing contacts.
 
 **Technologies:** React.js, Node.js, Express.js, MongoDB
 
-[🔗 View Repository](https://github.com/Vellaisamy-24/ContactManager_MERN)
+[View Repository](https://github.com/Vellaisamy-24/ContactManager_MERN)
 
 ### ⚡ EB House Bill Calculator
 
-An application for calculating electricity charges based on consumption.
+A web application for calculating electricity bills.
 
-[🔗 View Repository](https://github.com/Vellaisamy-24/EbHouseBillCalculator)
+**Technologies:** React.js, JavaScript
+
+[View Repository](https://github.com/Vellaisamy-24/EbHouseBillCalculator)
 
 ---
 
@@ -130,15 +108,25 @@ An application for calculating electricity charges based on consumption.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vellaisamy-24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vellaisamy-24&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vellaisamy-24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vellaisamy-24&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vellaisamy-24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Vellaisamy-24&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vellaisamy-24&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -147,7 +135,13 @@ An application for calculating electricity charges based on consumption.
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vellaisamy-24&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Vellaisamy-24&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub Contribution Graph"
+  width="100%"
+/>
+
 </div>
 
 ---
@@ -156,13 +150,23 @@ An application for calculating electricity charges based on consumption.
 
 <div align="center">
 
-I'm always interested in connecting with developers, learning new technologies, and exploring exciting software development opportunities.
+I'm always interested in connecting with developers, learning new technologies, and exploring software development opportunities.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://vellaisamyaportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vellaisamya/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vellaisamy-24)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vellaisamy/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vellaikarthick24@gmail.com)
+<a href="https://vellaisamyportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/vellaisamya/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Vellaisamy-24">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://leetcode.com/u/vellaisamy/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="mailto:vellaikarthick24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -172,9 +176,4 @@ I'm always interested in connecting with developers, learning new technologies, 
 
 ### 💻 Keep Learning. Keep Building. Keep Growing.
 
-</div>
-<div align="center">
-
-  
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
