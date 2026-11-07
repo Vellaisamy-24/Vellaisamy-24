@@ -1,26 +1,24 @@
-
 # 👋 Hi, I'm Vellaisamy A
 
 <div align="center">
+  <img src="assets/profile.jpeg" alt="Vellaisamy A - Software Developer" width="180" style="border-radius: 50%;" />
 
-### Software Developer | Full Stack Developer
+  <h3>Software Developer | Full Stack Developer</h3>
 
-Building reliable software, solving problems, and exploring AI-powered applications.
+  <p>Building reliable software, solving problems, and exploring AI-powered applications.</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Exploring+AI+Applications" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Exploring+AI+Applications" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Developer at **Syncfusion**, working on enterprise software development, debugging, defect resolution, feature enhancements, and automated testing.
+I'm a **Software Developer at Syncfusion**, working on enterprise software development, debugging, defect resolution, feature enhancements, and automated testing.
 
 I enjoy building full-stack applications, solving Data Structures and Algorithms problems, and exploring how AI can make applications more useful.
 
 - 💼 Software Developer at Syncfusion
-- 🌐 Interested in Full Stack and Software Development opportunities
 - ⚛️ Building applications with React.js and the MERN stack
 - 🤖 Exploring AI applications using LangGraph, Mistral AI, and vector databases
 - 🧠 Practicing Data Structures and Algorithms
@@ -112,9 +110,7 @@ A web application for calculating electricity bills.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vellaisamy-24&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Vellaisamy-24&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
@@ -122,27 +118,18 @@ A web application for calculating electricity bills.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vellaisamy-24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vellaisamy-24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vellaisamy-24&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vellaisamy-24&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vellaisamy-24&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
+
+---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vellaisamy-24&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vellaisamy-24&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </div>
 
 ---
