@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vellaisamy A
 
 <div align="center">
-  <img src="assets/profile.jpeg" alt="Vellaisamy A - Software Developer" width="180" style="border-radius: 50%;" />
+  <!-- <img src="assets/profile.jpeg" alt="Vellaisamy A - Software Developer" width="180" style="border-radius: 50%;" /> -->
 
   <h3>Software Developer | Full Stack Developer</h3>
 
