@@ -147,9 +147,7 @@ An application for calculating electricity charges based on consumption.
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vellaisamy-24&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vellaisamy-24&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
