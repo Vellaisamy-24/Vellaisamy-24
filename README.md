@@ -122,26 +122,27 @@ A web application for calculating electricity bills.
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vellaisamy-24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vellaisamy-24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vellaisamy-24&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vellaisamy-24&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Vellaisamy-24&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
-
----
 
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Vellaisamy-24&theme=github-compact&hide_border=true&area=true"
-  alt="GitHub Contribution Graph"
-  width="100%"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vellaisamy-24&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
